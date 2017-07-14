@@ -1,2 +1,2 @@
 # CodeWars
-Repo for CodeWars Kata
+Repo for CodeWars com.dacelonid.needle.Kata
